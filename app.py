@@ -2,5 +2,9 @@ def add(a, b):
     return a + b
 
 
-if __name__ == "__main__":
+def multiply(a, b):
+    return a * b
+
+
+if _name_ == "_main_":
     print("Jenkins PR Validation Project")
